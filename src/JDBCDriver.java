@@ -12,8 +12,8 @@ public class JDBCDriver
     private static final String DB_URL = "jdbc:mysql://localhost/club_membership?useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false";
 
     //  Database credentials
-    private static final String USER = "root";
-    private static final String PASS = "root";
+    private static final String USER = "";
+    private static final String PASS = "";
     private Connection conn = null;
 
 
